@@ -9,3 +9,4 @@ test new jenkins pro11
 test for artifacts project 12 in jenkins
 save aftifacts
 save artifacts2
+save artifacts3
